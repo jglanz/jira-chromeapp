@@ -1,0 +1,11 @@
+node_modules
+temp
+.tmp
+dist
+/package
+/app/scripts/*.js
+.sass-cache
+app/bower_components
+test/bower_components
+
+package/jira chromeapp-2.zip
